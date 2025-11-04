@@ -47,4 +47,4 @@ Transforming a static exercise into a dynamic, reactive application taught me ho
 ---
 
 Thanks for reading, and happy browsing!  
-✨ **Chloé Adrian**
+Chloé Adrian ✨
